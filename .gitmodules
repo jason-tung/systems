@@ -1,0 +1,6 @@
+[submodule "01euler"]
+	path = 01euler
+	url = git@github.com:jason-tung/01euler.git
+[submodule "02pointers"]
+	path = 02pointers
+	url = git@github.com:jason-tung/02pointers.git
