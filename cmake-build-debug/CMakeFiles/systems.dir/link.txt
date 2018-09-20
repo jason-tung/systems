@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/systems.dir/02pointers/main.c.o CMakeFiles/systems.dir/03arrayswap/main.c.o CMakeFiles/systems.dir/classwork/testy.c.o  -o systems 
