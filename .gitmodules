@@ -4,3 +4,6 @@
 [submodule "02pointers"]
 	path = 02pointers
 	url = git@github.com:jason-tung/02pointers.git
+[submodule "03arrayswap"]
+	path = 03arrayswap
+	url = git@github.com:jason-tung/03arrayswap.git
